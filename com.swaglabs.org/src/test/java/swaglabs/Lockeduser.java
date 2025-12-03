@@ -18,7 +18,6 @@ public class Lockeduser {
 		/*
 		 * The following Test script produces screeenshots for locked user and saved in 
 		 * "Lockeduser_screenshot" folder
-		 * 
 		 */
 		System.out.println("This is my first script");
 		WebDriverManager.firefoxdriver().setup();
