@@ -26,7 +26,7 @@ public class Glitchuser {
 		
 		driver.get("https://www.saucedemo.com/v1/index.html");
 
-		Thread.sleep(7000);
+		Thread.sleep(4000);
 
 		driver.findElement(By.id("user-name")).clear();
 		Thread.sleep(3000);
