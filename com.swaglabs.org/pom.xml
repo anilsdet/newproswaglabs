@@ -3,6 +3,13 @@
   <groupId>com.swaglabs.org</groupId>
   <artifactId>com.swaglabs.org</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+	<properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <java.version>17.0.17</java.version>
+    </properties>
+
   
   <dependencies>
 		<dependency>
